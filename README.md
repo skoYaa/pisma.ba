@@ -1,1 +1,1 @@
-# pisma.ba
+# Zajednicki projekat, razvoj web aplikacije pisma.ba :)
